@@ -1,0 +1,14 @@
+[
+    {
+        "username": "shivam",
+        "password": "$2b$12$bEg5rFIxHXbfrnpVW9bKl.cBvBVc3Ml0AZklWnv5EKD.q2YPQfMNW",
+        "tasks": [
+            {
+                "task_id": 1,
+                "title": "python",
+                "description": "introduction, variables, datatypes",
+                "status": "Pending"
+            }
+        ]
+    }
+]
